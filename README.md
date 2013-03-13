@@ -27,11 +27,17 @@ $ git init
 $ git remote add upstream git@github.com:aybabtme/marioai-uottawa.git
 ```
 
-*    Create a repo on your Github, choose whatever name you feel like.  Say you called your repo `sunflower-ai`, and your Github handle be `sunlover`.  Now, ignore all the instructions Github tells you about initializing stuff and adding README and whatever else.  Do this instead:
+*    Create a repo on your Github, choose whatever name you feel like.  Now, ignore all the instructions Github tells you about initializing stuff and adding README and whatever else.  Do this instead :
 
 ```
-$ git remote add origin git@github.com:sunlover/sunflower.git
+$ git remote add origin git@github.com:<username>/<reponame>.git
 ```
+Say you called your repo `sunflower-ai`, and your Github handle be `sunlover`.  
+
+```
+$ git remote add origin git@github.com:sunlover/sunflower-ai.git
+```
+
 __Now do nothing else!__ Move to the next section.
 
 # IDE Specifics
