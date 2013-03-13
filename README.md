@@ -3,7 +3,7 @@
 ## Introduction
 Ready to use projects for MarioAI development using Eclipse or IntelliJ.
 
-You will need a Unix/Linux system to follow this guide.  If you run Windows, install [Github for Windows]() and use their provided shell. Otherwise, figure it out yourself :)
+You will need a Unix/Linux system to follow this guide.  If you run Windows, install [Github for Windows](http://windows.github.com/) and use their provided shell. Otherwise, figure it out yourself :)
 
 # Installation
 
@@ -53,6 +53,26 @@ $ git push origin master
 __Then follow the rest of the instructions in the [IntelliJ Guide](idea.md).__
 
 ## Eclipse
+You're used to Eclipse because for whatever reason, you're used to Eclipse?  No problem.
+
+If for some reason, you're used to Eclipse but you don't have it installed, no worries, follow [this link](#intellij).
+
+If you already have Eclipse installed, still in your project folder do:
+
+```
+$ git pull upstream eclipse
+$ git push origin master
+```
+
+__Then follow the rest of the instructions in the [Eclipse Guide](eclipse.md).__
+
+## Dr. Java & Netbeans
+
+You love Dr. Java since the first day you met it in ITI1120/ITI1520?
+
+Or you like the net and you eat beans everyday, and that was enough to convince you that Netbeans is the shit?
+
+__Follow the [Dr. Java Guide](https://www.youtube.com/watch?v=oHg5SJYRHA0) and [Netbeans Guide](https://www.youtube.com/watch?v=oHg5SJYRHA0).__
 
 ## Command Line
 
