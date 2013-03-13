@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="marioai">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/marioai.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
