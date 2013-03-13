@@ -1,3 +1,5 @@
+package ca.uottawa;
+
 import ch.idsia.agents.controllers.ForwardAgent;
 import ch.idsia.benchmark.tasks.BasicTask;
 import ch.idsia.tools.MarioAIOptions;
