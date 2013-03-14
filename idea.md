@@ -58,6 +58,6 @@ Just select the module, then click on 'Run'.
 
 ![](readme/45947.png)
 
-There you are, all set like a big {girl,boy}!  Call your mom and tell about what you just did.
+There you are, all set like a big {girl,boy}!  Call your mom and tell her about what you just did.
 
 ![](readme/45958.png)
