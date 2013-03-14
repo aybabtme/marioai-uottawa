@@ -42,7 +42,7 @@ __Now do nothing else!__ Move to the next section.
 
 # IDE Specifics
 
-If you followed properly last section, you're ready to setup your project in a specific manner, depending your IDE (or lack thereof).
+If you followed properly last section, you're ready to setup your project in a more specific manner, depending on your IDE (or lack thereof).
  
 ## IntelliJ
 Let's start out with IntelliJ, because I've been told that all the cool kids use IntelliJ, or so they say.  And you do want to be a cool kid, don't you?
